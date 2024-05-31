@@ -1,0 +1,27 @@
+p{
+    color: white;
+    text-align: center;
+    font-size:x-large;
+}
+
+.cv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:cadetblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 75%;
+}
+
+ol{
+    margin-left: 50px;}
+
+h2{
+    margin-left: 30px;
+}
+
+body{
+    background-color: darkblue;
+}
